@@ -52,8 +52,6 @@ The data set contains the following diseases:
 - Training the final model and testing the model
 - Verifying the model
 
-## Results
-
 # Conclusion
 
 As the accuracy of the model increases, the loss decreases. The final model has an accuracy of 83%. The model is able to predict the class of the lesion with a high accuracy.
